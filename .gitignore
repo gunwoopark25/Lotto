@@ -1,0 +1,27 @@
+# CMake
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# CLion
+.idea/
+*.iml
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.sln
+
+# Build outputs
+x64/
+Debug/
+Release/
+.obj/
+
+# macOS
+.DS_Store
+
+# executables
+*.exe
+*.out
+*.app
